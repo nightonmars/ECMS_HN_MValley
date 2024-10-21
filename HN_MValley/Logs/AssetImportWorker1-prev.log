@@ -1,0 +1,2267 @@
+Unity Editor version:    2022.3.42f1 (2dcb6a0abc42)
+Branch:                  2022.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.7 (Build 22H123)
+Darwin version:          22.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Volumes/Johan 1TB SSD/Game audio coding/Mix and Jam projects/MixJam Done/Monument Valley level design/HN_MValley
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51631
+Successfully changed project path to: /Volumes/Johan 1TB SSD/Game audio coding/Mix and Jam projects/MixJam Done/Monument Valley level design/HN_MValley
+/Volumes/Johan 1TB SSD/Game audio coding/Mix and Jam projects/MixJam Done/Monument Valley level design/HN_MValley
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8353751296]  Target information:
+
+Player connection [8353751296]  * "[IP] 192.168.0.23 [Port] 0 [Flags] 2 [Guid] 2773989543 [EditorId] 2773989543 [Version] 1048832 [Id] OSXEditor(0,johanenglundsM2) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8353751296]  * "[IP] 192.168.0.22 [Port] 0 [Flags] 2 [Guid] 2773989543 [EditorId] 2773989543 [Version] 1048832 [Id] OSXEditor(0,johanenglundsM2) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8353751296] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8353751296] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+Refreshing native plugins compatible for Editor in 4.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.42f1 (2dcb6a0abc42)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/Johan 1TB SSD/Game audio coding/Mix and Jam projects/MixJam Done/Monument Valley level design/HN_MValley/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M2 Pro (high power)
+Metal devices available: 1
+0: Apple M2 Pro (high power)
+Using device Apple M2 Pro (high power)
+Initializing Metal device caps: Apple M2 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56538
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000745 seconds.
+- Loaded All Assemblies, in  0.178 seconds
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.131 seconds
+Domain Reload Profiling: 309ms
+	BeginReloadAssembly (36ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (85ms)
+		LoadAssemblies (36ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (84ms)
+			TypeCache.Refresh (83ms)
+				TypeCache.ScanAssembly (74ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (131ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (105ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (74ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.251 seconds
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.278 seconds
+Domain Reload Profiling: 529ms
+	BeginReloadAssembly (63ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (138ms)
+		LoadAssemblies (103ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (63ms)
+			TypeCache.Refresh (55ms)
+				TypeCache.ScanAssembly (47ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (278ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (203ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (23ms)
+			ProcessInitializeOnLoadAttributes (165ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 2.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (1.8 MB). Loaded Objects now: 2524.
+Memory consumption went from 118.4 MB to 116.5 MB.
+Total: 2.494875 ms (FindLiveObjects: 0.079250 ms CreateObjectMapping: 0.032000 ms MarkObjects: 2.086084 ms  DeleteObjects: 0.297208 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16f553000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.270 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.685 seconds
+Domain Reload Profiling: 955ms
+	BeginReloadAssembly (72ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (169ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (16ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (685ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (206ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (23ms)
+			ProcessInitializeOnLoadAttributes (169ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Shader 'Hidden/FXAA Preset 2': fallback shader 'Hidden/FXAA II' not found
+Shader 'Hidden/FXAA Preset 3': fallback shader 'Hidden/FXAA II' not found
+Refreshing native plugins compatible for Editor in 2.84 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2143 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2587.
+Memory consumption went from 136.5 MB to 128.6 MB.
+Total: 16.923334 ms (FindLiveObjects: 0.076042 ms CreateObjectMapping: 0.031916 ms MarkObjects: 15.379750 ms  DeleteObjects: 1.435334 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: f86eeeaf2af4100a5f7edca5d77f8692 -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16dacf000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.267 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.653 seconds
+Domain Reload Profiling: 920ms
+	BeginReloadAssembly (88ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (138ms)
+		LoadAssemblies (149ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (653ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (193ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (24ms)
+			ProcessInitializeOnLoadAttributes (155ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 3.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2143 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2590.
+Memory consumption went from 140.5 MB to 132.6 MB.
+Total: 3.685000 ms (FindLiveObjects: 0.081667 ms CreateObjectMapping: 0.035083 ms MarkObjects: 2.009041 ms  DeleteObjects: 1.558958 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: de0915f472d694086090584e5e86c206 -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.252 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.669 seconds
+Domain Reload Profiling: 922ms
+	BeginReloadAssembly (82ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (127ms)
+		LoadAssemblies (141ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (669ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (195ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (157ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2594.
+Memory consumption went from 144.3 MB to 136.5 MB.
+Total: 3.675542 ms (FindLiveObjects: 0.081125 ms CreateObjectMapping: 0.035208 ms MarkObjects: 2.005500 ms  DeleteObjects: 1.553458 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: e1d12d9d395265d66c64967b1817b6ab -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.408 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.606 seconds
+Domain Reload Profiling: 1014ms
+	BeginReloadAssembly (109ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (241ms)
+		LoadAssemblies (196ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (79ms)
+			TypeCache.Refresh (59ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (606ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (195ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (30ms)
+			ProcessInitializeOnLoadAttributes (150ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2597.
+Memory consumption went from 148.3 MB to 140.4 MB.
+Total: 3.595458 ms (FindLiveObjects: 0.081500 ms CreateObjectMapping: 0.029208 ms MarkObjects: 1.945917 ms  DeleteObjects: 1.538583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: e1d12d9d395265d66c64967b1817b6ab -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.261 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.674 seconds
+Domain Reload Profiling: 936ms
+	BeginReloadAssembly (82ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (136ms)
+		LoadAssemblies (137ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (28ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (8ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (674ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (187ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (151ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2601.
+Memory consumption went from 152.2 MB to 144.3 MB.
+Total: 3.615375 ms (FindLiveObjects: 0.061041 ms CreateObjectMapping: 0.046917 ms MarkObjects: 1.937834 ms  DeleteObjects: 1.569125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.292 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.671 seconds
+Domain Reload Profiling: 963ms
+	BeginReloadAssembly (84ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (168ms)
+		LoadAssemblies (180ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (671ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (190ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (154ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 3.84 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2604.
+Memory consumption went from 156.2 MB to 148.3 MB.
+Total: 3.438959 ms (FindLiveObjects: 0.070084 ms CreateObjectMapping: 0.031041 ms MarkObjects: 1.894792 ms  DeleteObjects: 1.442750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.260 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.698 seconds
+Domain Reload Profiling: 958ms
+	BeginReloadAssembly (87ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (132ms)
+		LoadAssemblies (142ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (699ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (191ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (24ms)
+			ProcessInitializeOnLoadAttributes (153ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 3.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2607.
+Memory consumption went from 160.1 MB to 152.2 MB.
+Total: 3.496584 ms (FindLiveObjects: 0.060750 ms CreateObjectMapping: 0.027667 ms MarkObjects: 1.899125 ms  DeleteObjects: 1.508625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.263 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.681 seconds
+Domain Reload Profiling: 944ms
+	BeginReloadAssembly (80ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (144ms)
+		LoadAssemblies (157ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (681ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (196ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (161ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2610.
+Memory consumption went from 164.1 MB to 156.2 MB.
+Total: 3.632458 ms (FindLiveObjects: 0.059500 ms CreateObjectMapping: 0.027709 ms MarkObjects: 1.981209 ms  DeleteObjects: 1.563791 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.259 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.671 seconds
+Domain Reload Profiling: 930ms
+	BeginReloadAssembly (85ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (130ms)
+		LoadAssemblies (146ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (672ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (187ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (151ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2613.
+Memory consumption went from 167.9 MB to 160.0 MB.
+Total: 3.420625 ms (FindLiveObjects: 0.083125 ms CreateObjectMapping: 0.031500 ms MarkObjects: 1.848291 ms  DeleteObjects: 1.457334 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.284 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.672 seconds
+Domain Reload Profiling: 956ms
+	BeginReloadAssembly (93ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (151ms)
+		LoadAssemblies (172ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (16ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (672ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (190ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (155ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 3.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2616.
+Memory consumption went from 171.9 MB to 164.0 MB.
+Total: 4.049000 ms (FindLiveObjects: 0.079500 ms CreateObjectMapping: 0.032625 ms MarkObjects: 2.248500 ms  DeleteObjects: 1.688083 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.224 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.779 seconds
+Domain Reload Profiling: 1003ms
+	BeginReloadAssembly (74ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (110ms)
+		LoadAssemblies (123ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (780ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (197ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (160ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 3.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2619.
+Memory consumption went from 175.8 MB to 167.9 MB.
+Total: 3.503833 ms (FindLiveObjects: 0.083084 ms CreateObjectMapping: 0.029416 ms MarkObjects: 1.896500 ms  DeleteObjects: 1.494583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.250 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.700 seconds
+Domain Reload Profiling: 949ms
+	BeginReloadAssembly (79ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (127ms)
+		LoadAssemblies (141ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (700ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (199ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (162ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2622.
+Memory consumption went from 179.7 MB to 171.8 MB.
+Total: 3.489791 ms (FindLiveObjects: 0.083041 ms CreateObjectMapping: 0.030292 ms MarkObjects: 1.905458 ms  DeleteObjects: 1.470583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9be2f0c5aed9fefe15c5e94bf0d5a9ef -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.266 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.678 seconds
+Domain Reload Profiling: 945ms
+	BeginReloadAssembly (88ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (135ms)
+		LoadAssemblies (152ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (678ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (176ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (21ms)
+			ProcessInitializeOnLoadAttributes (141ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 3.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2625.
+Memory consumption went from 183.6 MB to 175.7 MB.
+Total: 3.719917 ms (FindLiveObjects: 0.073250 ms CreateObjectMapping: 0.033000 ms MarkObjects: 2.056459 ms  DeleteObjects: 1.557000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: fe55082b7e8b630afae3b3a3d5e16018 -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.264 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.702 seconds
+Domain Reload Profiling: 966ms
+	BeginReloadAssembly (87ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (125ms)
+		LoadAssemblies (135ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (702ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (194ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (23ms)
+			ProcessInitializeOnLoadAttributes (157ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.36 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2628.
+Memory consumption went from 187.6 MB to 179.8 MB.
+Total: 3.762291 ms (FindLiveObjects: 0.105791 ms CreateObjectMapping: 0.032667 ms MarkObjects: 2.079833 ms  DeleteObjects: 1.543459 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: fe55082b7e8b630afae3b3a3d5e16018 -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.310 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.650 seconds
+Domain Reload Profiling: 960ms
+	BeginReloadAssembly (88ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (181ms)
+		LoadAssemblies (192ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (650ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (193ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (23ms)
+			ProcessInitializeOnLoadAttributes (156ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 4.12 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2631.
+Memory consumption went from 191.5 MB to 183.6 MB.
+Total: 4.275959 ms (FindLiveObjects: 0.112042 ms CreateObjectMapping: 0.033917 ms MarkObjects: 2.281208 ms  DeleteObjects: 1.848417 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: fe55082b7e8b630afae3b3a3d5e16018 -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16d3b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.351 seconds
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.736 seconds
+Domain Reload Profiling: 1086ms
+	BeginReloadAssembly (143ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (152ms)
+		LoadAssemblies (163ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (24ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (10ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (736ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (210ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (26ms)
+			ProcessInitializeOnLoadAttributes (168ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 3.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (7.9 MB). Loaded Objects now: 2634.
+Memory consumption went from 195.5 MB to 187.6 MB.
+Total: 3.695167 ms (FindLiveObjects: 0.108500 ms CreateObjectMapping: 0.039167 ms MarkObjects: 2.003042 ms  DeleteObjects: 1.543958 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecated.cs: 8700a90d2d763e9c01f08a0cd128cca8 -> 
+  custom:scripting/monoscript/fileName/Water.cs: 47d36fddd9c06776acd1b9d4bad18ce4 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlur.cs: 458c2b6f90eeea041921d89083a79e55 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookupEditor.cs: a2fb9e7138550e9aa0e0de2d21737d42 -> 
+  custom:scripting/monoscript/fileName/PostEffectsHelper.cs: 5b0aade5ee85030099a328bfa56e17eb -> 
+  custom:scripting/monoscript/fileName/TiltShift.cs: 13ff1d7342528fc14a2e194c2bdc09fb -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Shark.cs: bce900cb6dd21dc95e33ee895dac9111 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/CreaseShading.cs: 5b17bf81bff982a9605309492401c574 -> 
+  custom:scripting/monoscript/fileName/DynamicSkyLite.cs: aa0e61d359d2ba455f6428ab30beb0f6 -> 
+  custom:scripting/monoscript/fileName/AntialiasingEditor.cs: cd1db322c4d4bac3e0fdd7740cc772c6 -> 
+  custom:scripting/monoscript/fileName/Antialiasing.cs: bec6c7367bf7f3b527b25907b25d4102 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientOcclusion.cs: 42eb6963a5f738a978938eb937f58d78 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldEditor.cs: 08f2494575227b4cb3d61bcceb28feda -> 64cce655bf722c851048e2ebbf401a7b
+  custom:scripting/monoscript/fileName/SepiaTone.cs: 67c7b044a145b042dba91a1a8d54f9f4 -> 
+  custom:scripting/monoscript/fileName/ImageEffectBase.cs: 6d460e3d17a4175e44411c6923e62aed -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrainEditor.cs: 0276e69b6de7374aa913d893485a004e -> 
+  custom:scripting/monoscript/fileName/NoiseAndGrain.cs: f4f7112c95c7474ffaf494b422803169 -> 
+  custom:scripting/monoscript/fileName/NVBoids.cs: b0ecee322a46c18b0785b13bc2f1ab77 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlaresEditor.cs: 1f9e796d927ffcd86ccbfad6ec7007d5 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceAmbientObscurance.cs: 958d0bf4e6842d24e3147fb5da01010e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SunShafts.cs: abee30526487200fa16387df850e7daf -> 
+  custom:scripting/monoscript/fileName/CreaseShadingEditor.cs: 10fe90e5375fc621d9f19b702723dc86 -> 
+  custom:scripting/monoscript/fileName/MotionBlur.cs: 92b2659b88ad4aa26fb8c384c6435693 -> 823914e335803785a19e5990c6ab2911
+  custom:scripting/monoscript/fileName/TDControl.cs: f9f8951539c227b89501fef2e0706678 -> 
+  custom:scripting/monoscript/fileName/Fisheye.cs: ad168996bfc8fa7824e22ed9b5548fe9 -> 
+  custom:scripting/monoscript/fileName/Grayscale.cs: 87671e23fd2948061f63e16eb704f3a3 -> 
+  custom:scripting/monoscript/fileName/Twirl.cs: 13260c2451d9e72af8c2f232859ba959 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/monoscript/fileName/FPSCounter.cs: f21f76370cfea080d4f1b2c4fd940607 -> 
+  custom:scripting/monoscript/fileName/ScreenOverlay.cs: 8b6e368a4e3d0df848783015d0ee2b1e -> 
+  custom:scripting/monoscript/fileName/BlurOptimized.cs: a99dff34286593c12b0fab92e7c0da68 -> 
+  custom:scripting/monoscript/fileName/CameraMotionBlurEditor.cs: 7c502cd6630e6f5609abadb3991d9ab2 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/Quads.cs: 2f24050aded65dda899533ba7849a43c -> 
+  custom:scripting/monoscript/fileName/Blur.cs: 16b33e375f19895ec61239c77165934f -> 
+  custom:scripting/monoscript/fileName/Bloom.cs: 30ec2f75a877490d61737e7133343649 -> 6f6d579a64201b97313a62a1e91b3575
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DepthOfFieldDeprecatedEditor.cs: 9c0d6ba6950f727fa7ed1bfef973ec32 -> 
+  custom:scripting/monoscript/fileName/ImageEffects.cs: fc49fae855f2f50655b411c31423a73d -> 
+  custom:scripting/monoscript/fileName/MoveBetweenObjects.cs: af15d1e8014860c3ad4c4865d5fd9556 -> 
+  custom:scripting/monoscript/fileName/Vortex.cs: d2f7738ed789b7a977f000ffd0cf8890 -> 
+  custom:scripting/monoscript/fileName/PostEffectsBase.cs: 6aabc5a6e1a831a9196622d2796540be -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurvesEditor.cs: ba8c98b45b2e94f575e6b8aff77cc447 -> 
+  custom:scripting/monoscript/fileName/Underwater.cs: fd492f5c29afa1e12600d7905912f5cf -> 
+  custom:scripting/monoscript/fileName/TonemappingEditor.cs: edac4117593cd8c316e847cfa4a2c184 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionLookup.cs: cdade6b297f1c116727fa6035591313f -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/Triangles.cs: 64f7a3839fbac059155d5ec1d8597e9c -> 
+  custom:scripting/monoscript/fileName/DepthOfField.cs: 210e30d8b82aad5f2e723712ae5c23ab -> d62178d8b5619f59fcdd6d24617ef5fd
+  custom:scripting/monoscript/fileName/SunShaftsEditor.cs: 14ff19bb08f48e5592630a8ef09a85a4 -> 
+  custom:scripting/monoscript/fileName/ContrastStretch.cs: 606dc0496a32ea6e71f97dc962793c28 -> 
+  custom:scripting/monoscript/fileName/BloomEditor.cs: d91107ad996d0ffb3ca7e993408afdea -> c341bb26b40744c3a5c2a142ac3e1051
+  custom:scripting/monoscript/fileName/BirdFlockTrigger.cs: 3c67fc2a58c1d57c1fbd95048417cc49 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberrationEditor.cs: de7480822b02f6e7bbb6e752b450d6c9 -> 
+  custom:scripting/monoscript/fileName/BloomOptimized.cs: deef391a4062215fa64b13290b34b1e5 -> 
+  custom:scripting/monoscript/fileName/BloomAndFlares.cs: 8afb5ea14b913734370925506b923fb7 -> 
+  custom:scripting/monoscript/fileName/VignetteAndChromaticAberration.cs: 6f7816e6c6a96eb38e8b34a3171a3d7a -> 
+  custom:scripting/monoscript/fileName/GlobalFog.cs: cec4a166fe83b304dd694da080c37c22 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Tonemapping.cs: c9f290b3ad74cc49f26aca1f0af02743 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: df685cb6e876cc21dc72fcaf355b535f -> 
+  custom:scripting/monoscript/fileName/EdgeDetection.cs: 7e270773de6bd808e57f1eb909c3207a -> 
+  custom:scripting/monoscript/fileName/EdgeDetectionEditor.cs: 4cca3302e9c064dba4f706ba0e5d7102 -> 
+  custom:scripting/monoscript/fileName/ColorCorrectionCurves.cs: 0fe9ce599982e40ac8aba010733d7bdc -> 
+  custom:scripting/monoscript/fileName/SlowMo.cs: a40d7f38ab004ad43224284cfd4b2c44 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: fe55082b7e8b630afae3b3a3d5e16018 -> c57175bf05014c7104afa40ba8f55421
+  custom:scripting/monoscript/fileName/ColorCorrectionRamp.cs: a7e8fab02fd9ee3f41f3660b4752114a -> 
+  custom:scripting/monoscript/fileName/NoiseAndScratches.cs: e0c1886d5a6b335ec4861c2068c91d03 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ContrastEnhance.cs: 25207a33818c5454fd86fad73189b2cd -> 

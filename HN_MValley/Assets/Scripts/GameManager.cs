@@ -50,6 +50,7 @@ public class GameManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.D))
         {
+            
             SoundManager.Instance.TowerTurn();
             int multiplier = Input.GetKey(KeyCode.RightArrow) ? 1 : -1;
             pivots[0].DOComplete();
