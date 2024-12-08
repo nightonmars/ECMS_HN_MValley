@@ -49,5 +49,14 @@ public class FMOD_Ambience : MonoBehaviour
         music.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
     }
 
+    public void FirstTower()
+    {
+        music.setParameterByName("MusicStages", 1);
+    }
+
+    public void PuzzledSolved()
+    {
+        music.setParameterByName("MusicStages", 2);
+    }
 }
 

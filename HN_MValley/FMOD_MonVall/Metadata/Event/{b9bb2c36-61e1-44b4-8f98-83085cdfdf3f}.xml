@@ -5,7 +5,7 @@
 			<value>Seagulls</value>
 		</property>
 		<property name="outputFormat">
-			<value>5</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{3504fc34-2ff7-4a3d-9ae6-6419d554f8ae}</destination>
@@ -59,24 +59,11 @@
 	<object class="EventAutomatableProperties" id="{66b25c51-888a-4670-844c-f821d9fde45f}" />
 	<object class="MarkerTrack" id="{7854ebaf-9fc2-4afe-99d8-87a89a97eb27}" />
 	<object class="GroupTrack" id="{6cb48cc6-208c-4d0a-aec3-b885e0a970cf}">
-		<relationship name="modules">
-			<destination>{9ccb5b95-f8e8-431d-a5b0-c3af12bf1ba8}</destination>
-			<destination>{1f044383-48bf-46d9-83e2-1d505f4bfb5d}</destination>
-		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{f59d82b3-28a8-4daa-bb1d-164511e52c92}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{92cc8961-67ba-47a8-af6c-d1389f7b3ac4}">
-		<relationship name="modules">
-			<destination>{9ccb5b95-f8e8-431d-a5b0-c3af12bf1ba8}</destination>
-			<destination>{1f044383-48bf-46d9-83e2-1d505f4bfb5d}</destination>
-		</relationship>
-		<relationship name="markers">
-			<destination>{78b13179-0ab6-41a3-ab14-e78fbc5ca3a5}</destination>
-			<destination>{d7bc3844-d865-4759-9ba7-331ada046804}</destination>
-		</relationship>
-	</object>
+	<object class="Timeline" id="{92cc8961-67ba-47a8-af6c-d1389f7b3ac4}" />
 	<object class="EventMixerMaster" id="{3ee5f5d8-7516-4b14-ba04-8bb32b499ec0}">
 		<relationship name="modulators">
 			<destination>{40f2872c-6d25-4768-9445-569670ad4e5d}</destination>
@@ -97,52 +84,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{eeddb34d-426c-4dce-aaa7-774e2c710c54}" />
-	<object class="SoundScatterer" id="{9ccb5b95-f8e8-431d-a5b0-c3af12bf1ba8}">
-		<property name="triggerProbabilityEnabled">
-			<value>true</value>
-		</property>
-		<property name="triggerProbability">
-			<value>45</value>
-		</property>
-		<property name="start">
-			<value>20</value>
-		</property>
-		<property name="length">
-			<value>4.6000000000000005</value>
-		</property>
-		<property name="volume">
-			<value>6.5</value>
-		</property>
-		<property name="minimumScatterDistance">
-			<value>1.80000007</value>
-		</property>
-		<property name="maximumScatterDistance">
-			<value>50</value>
-		</property>
-		<relationship name="sound">
-			<destination>{08ab550a-73b8-4d9f-90c7-d545b57586d6}</destination>
-		</relationship>
-	</object>
-	<object class="SoundScatterer" id="{1f044383-48bf-46d9-83e2-1d505f4bfb5d}">
-		<property name="triggerProbability">
-			<value>45</value>
-		</property>
-		<property name="length">
-			<value>4.6000000000000005</value>
-		</property>
-		<property name="volume">
-			<value>6.5</value>
-		</property>
-		<property name="minimumScatterDistance">
-			<value>1.80000007</value>
-		</property>
-		<property name="maximumScatterDistance">
-			<value>50</value>
-		</property>
-		<relationship name="sound">
-			<destination>{426c2432-5c7d-4e55-8d25-da1a015ff15b}</destination>
-		</relationship>
-	</object>
 	<object class="EventMixerGroup" id="{f59d82b3-28a8-4daa-bb1d-164511e52c92}">
 		<property name="volume">
 			<value>6</value>
@@ -158,37 +99,6 @@
 		</relationship>
 		<relationship name="output">
 			<destination>{3ee5f5d8-7516-4b14-ba04-8bb32b499ec0}</destination>
-		</relationship>
-	</object>
-	<object class="LoopRegion" id="{78b13179-0ab6-41a3-ab14-e78fbc5ca3a5}">
-		<property name="position">
-			<value>20</value>
-		</property>
-		<property name="length">
-			<value>11.300000000000001</value>
-		</property>
-		<property name="name">
-			<value>Sealoop</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{92cc8961-67ba-47a8-af6c-d1389f7b3ac4}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{7854ebaf-9fc2-4afe-99d8-87a89a97eb27}</destination>
-		</relationship>
-	</object>
-	<object class="TransitionMarker" id="{d7bc3844-d865-4759-9ba7-331ada046804}">
-		<property name="position">
-			<value>10</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{92cc8961-67ba-47a8-af6c-d1389f7b3ac4}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{7854ebaf-9fc2-4afe-99d8-87a89a97eb27}</destination>
-		</relationship>
-		<relationship name="destination">
-			<destination>{78b13179-0ab6-41a3-ab14-e78fbc5ca3a5}</destination>
 		</relationship>
 	</object>
 	<object class="ADSRModulator" id="{40f2872c-6d25-4768-9445-569670ad4e5d}">
@@ -215,8 +125,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{f0f4b654-2abd-4a8e-a5cf-1ab6816293a5}" />
 	<object class="MixerBusFader" id="{47514541-f030-4c0b-ac4d-664fb920d2a9}" />
-	<object class="MultiSound" id="{08ab550a-73b8-4d9f-90c7-d545b57586d6}" />
-	<object class="MultiSound" id="{426c2432-5c7d-4e55-8d25-da1a015ff15b}" />
 	<object class="MixerBusEffectChain" id="{7e016977-f16f-47f4-82b6-7255ecbd4a49}">
 		<relationship name="effects">
 			<destination>{eb7aae2d-2788-47a8-aa53-677568bae497}</destination>

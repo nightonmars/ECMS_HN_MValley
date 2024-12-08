@@ -94,44 +94,10 @@
 	<object class="MixerBusPanner" id="{c1f7c5d5-dc90-4b0f-8d8d-81e4571d14be}" />
 	<object class="MixerBusEffectChain" id="{f0180618-fc45-43d9-bd10-5b0146a5b5ff}">
 		<relationship name="effects">
-			<destination>{706aebdc-ae07-4300-bf98-874955cd29d6}</destination>
-			<destination>{f330b731-11ce-477b-8ffb-0b2f98d2be57}</destination>
 			<destination>{36147148-48c8-4e89-8436-99d8f68032a7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{56d34e83-32b1-4620-92ac-bd2c358a2246}" />
 	<object class="MixerBusFader" id="{297f9598-9a05-45c0-a3a0-c968c3611ed3}" />
-	<object class="DelayEffect" id="{706aebdc-ae07-4300-bf98-874955cd29d6}">
-		<property name="delay">
-			<value>94</value>
-		</property>
-		<property name="level">
-			<value>-12</value>
-		</property>
-		<relationship name="modulators">
-			<destination>{5e453631-d44e-4f5e-b289-0d7c030082bb}</destination>
-		</relationship>
-	</object>
-	<object class="DistortionEffect" id="{f330b731-11ce-477b-8ffb-0b2f98d2be57}" />
 	<object class="MixerBusFader" id="{36147148-48c8-4e89-8436-99d8f68032a7}" />
-	<object class="ADSRModulator" id="{5e453631-d44e-4f5e-b289-0d7c030082bb}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>delay</value>
-		</property>
-		<property name="attackTime">
-			<value>0</value>
-		</property>
-		<property name="peakValue">
-			<value>5</value>
-		</property>
-		<property name="holdTime">
-			<value>0</value>
-		</property>
-		<property name="decayTime">
-			<value>3800</value>
-		</property>
-		<property name="releaseTime">
-			<value>4200</value>
-		</property>
-	</object>
 </objects>
